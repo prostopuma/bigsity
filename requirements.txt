@@ -1,0 +1,4 @@
+pyTelegramBotAPI==3.8.2
+lxml==4.6.3
+bs4==0.0.1
+requests==2.26.0
